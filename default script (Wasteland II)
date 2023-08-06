@@ -1,0 +1,5 @@
+--V2.3
+getgenv().GoldenPerks = {"Crook Boss",}
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2", true))() 
+TDS:Loadout("Crook Boss", "Farm", "Freezer", "Military Base", "Ace Pilot") 
+TDS:Map("Polluted Wasteland II", true, "Survival")
